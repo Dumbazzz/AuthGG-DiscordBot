@@ -5,6 +5,7 @@ AuthGG - C# Discord Bot
   <li> 1. Goto The "Commands.cs" and goto the very top and input all of your AuthGG application information.
   <li> 2. In "Commands.cs" goto line "281" and line "282" and put your own username & password in the fields.
   <li> 3. Thats it! You're done, you can now use the bot how ever you'd like. Thanks for using my template.
+</h1>
 
 <h2> Commands / Features
   
@@ -21,7 +22,7 @@ AuthGG - C# Discord Bot
   <li> Check user data(admin command)(shows their rank, username, hwid, etc)
   <li> Reset Users HWID
   <li> Give a user a permission to generate keys, reset hwid etc.
-
+</h2>
 
 <h3> Conclusion
   <h4> I hope you enjoy using my C# AuthGG Discord bot. If you have any questions just shoot me a message on UC. Thanks, Best Regards -xo1337.

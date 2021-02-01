@@ -2,9 +2,11 @@
 AuthGG - C# Discord Bot
 
 <h1> Setup & Initialization
-  <li> 1. Goto The "Commands.cs" and goto the very top and input all of your AuthGG application information.
-  <li> 2. In "Commands.cs" goto line "281" and line "282" and put your own username & password in the fields.
-  <li> 3. Thats it! You're done, you can now use the bot how ever you'd like. Thanks for using my template.
+  <h3>
+   <li> 1. Goto The "Commands.cs" and goto the very top and input all of your AuthGG application information.
+   <li> 2. In "Commands.cs" goto line "281" and line "282" and put your own username & password in the fields.
+   <li> 3. Thats it! You're done, you can now use the bot how ever you'd like. Thanks for using my template.
+  </h3>
 </h1>
 
 <h2> Commands / Features

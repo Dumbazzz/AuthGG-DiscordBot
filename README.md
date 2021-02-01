@@ -14,3 +14,7 @@ AuthGG - C# Discord Bot
   <li> Expiration Command
   <li> Users (Sends user a message of how many users you have in your AuthGG Application)
   <li> Check user data(admin command)(shows their rank, username, hwid, etc)
+  <li> Reset Users HWID
+    
+<h3> Conclusion
+  <h4> I hope you enjoy using my C# AuthGG Discord bot. If you have any questions just shoot me a message on UC. Thanks, Best Regards -xo1337.

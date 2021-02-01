@@ -1,6 +1,11 @@
 # AuthGG-DiscordBot
 AuthGG - C# Discord Bot
 
+<h1> Setup & Initialization
+  <li> 1. Goto The "Commands.cs" and goto the very top and input all of your AuthGG application information.
+  <li> 2. In "Commands.cs" goto line "281" and line "282" and put your own username & password in the fields.
+  <li> 3. Thats it! You're done, you can now use the bot how ever you'd like. Thanks for using my template.
+
 <h2> Commands / Features
   
   <li> Generate Keys
@@ -17,9 +22,6 @@ AuthGG - C# Discord Bot
   <li> Reset Users HWID
   <li> Give a user a permission to generate keys, reset hwid etc.
 
-<h3> How to use commands
-  <h4> ?genkeys "type" "amount" : example: `?genkeys lifetime 1`
-  <h4> ?delkey "licensekey" : example: `?delkey KJ6J0-VPIWH-GFFAW-BDM76-O6JBA`
 
 <h3> Conclusion
   <h4> I hope you enjoy using my C# AuthGG Discord bot. If you have any questions just shoot me a message on UC. Thanks, Best Regards -xo1337.

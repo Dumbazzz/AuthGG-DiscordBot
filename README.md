@@ -18,9 +18,8 @@ AuthGG - C# Discord Bot
   <li> Give a user a permission to generate keys, reset hwid etc.
 
 <h4> How to use commands
-  <h5> Generate Keys
-    <h6> Key Types are "lifetime", "month" and "week".
-    <li> ?genkeys "type" "amount"
+  <h5> ?genkeys "type" "amount" : example: `?genkeys lifetime 1`
+  <h5> ?delkey "licensekey" : example: `?delkey KJ6J0-VPIWH-GFFAW-BDM76-O6JBA`
 
 <h3> Conclusion
   <h4> I hope you enjoy using my C# AuthGG Discord bot. If you have any questions just shoot me a message on UC. Thanks, Best Regards -xo1337.

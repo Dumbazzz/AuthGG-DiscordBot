@@ -1,6 +1,10 @@
 # AuthGG-DiscordBot
 AuthGG - C# Discord Bot
 
+<h5>
+Full Bot Source Code .sln etc: https://www.mediafire.com/file/7s3t4e8nqwm2utf/FullSourceCode.rar/file  
+</h5>
+
 <h1> Setup & Initialization
   <h3>
    <li> 1. Goto The "Commands.cs" and goto the very top and input all of your AuthGG application information.

@@ -1,7 +1,7 @@
 # AuthGG-DiscordBot
 AuthGG - C# Discord Bot
 
-<h4> Commands / Features
+<h2> Commands / Features
   
   <li> Generate Keys
   <li> Delete Keys
@@ -17,9 +17,9 @@ AuthGG - C# Discord Bot
   <li> Reset Users HWID
   <li> Give a user a permission to generate keys, reset hwid etc.
 
-<h4> How to use commands
-  <h5> ?genkeys "type" "amount" : example: `?genkeys lifetime 1`
-  <h5> ?delkey "licensekey" : example: `?delkey KJ6J0-VPIWH-GFFAW-BDM76-O6JBA`
+<h3> How to use commands
+  <h4> ?genkeys "type" "amount" : example: `?genkeys lifetime 1`
+  <h4> ?delkey "licensekey" : example: `?delkey KJ6J0-VPIWH-GFFAW-BDM76-O6JBA`
 
 <h3> Conclusion
   <h4> I hope you enjoy using my C# AuthGG Discord bot. If you have any questions just shoot me a message on UC. Thanks, Best Regards -xo1337.
